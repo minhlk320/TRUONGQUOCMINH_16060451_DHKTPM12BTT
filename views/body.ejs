@@ -1,0 +1,16 @@
+<div>
+    <ul>
+        <% jsonPro.forEach(function(drink) { %>
+            <li><%= drink.name %> - <%= drink.price %>
+                <form action="/tinhTien" method="get">
+                    <input type="hidden" value='<%=drink.price%>'  name ="price">
+                    <input type="text" value=0  name ="quantity">
+                    <input type="submit" value="TinhTien">
+                </form>
+            </li>
+
+        <% }); %>
+
+
+    </ul>
+</div>

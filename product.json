@@ -1,0 +1,37 @@
+[
+{
+  "name": "Dell keyboard kb113ab",
+  "price": "15.0",
+  "description": "For window, mac or linux even smartphone and tablet"
+},
+{
+"name": "Mitsubishi Mouse",
+"price": "7.0",
+"description": "For window, mac or linux even smartphone and tablet"
+},
+{
+"name": "Dell 4k screen",
+"price": "300.0",
+"description": "For window, mac or linux even smartphone and tablet"
+},
+{
+"name": "Gigabyte H81 motherboard",
+"price": "15.0",
+"description": "for pc build purpose"
+},
+{
+"name": "Power adapter charger 40W PD",
+"price": "50.0",
+"description": "Type C supported with power delivery"
+},
+{
+"name": "Samsung curved display 49inch",
+"price": "1000.0",
+"description": "use as a monitor for pc, laptop"
+},
+{
+"name": "Full Dell PC",
+"price": "1200.0",
+"description": "I78760K, 16GB DDR4"
+}
+]
